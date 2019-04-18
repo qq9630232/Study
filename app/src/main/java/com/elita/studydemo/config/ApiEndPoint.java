@@ -11,7 +11,7 @@ public final class ApiEndPoint {
     /**
      * 主机地址
      */
-    public static final String BASE_HOST_ADDRESS = "ws://192.168.55.97:8888/bot-ui/chatBot";
+    public static final String BASE_HOST_ADDRESS = "";
 
 
     private ApiEndPoint() {
